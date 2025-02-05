@@ -2,8 +2,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 import Categories from "./pages/Categories";
-// import Products from "./pages/Products";
-// import NotFound from "./pages/NotFound";
 import { DashboardLayout } from "./components/layout/DashboardLayout";
 
 const App = () => (
